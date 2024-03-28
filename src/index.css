@@ -26,6 +26,28 @@ h1 {
   line-height: 1.1;
 }
 
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.containerItem {
+  padding: 0.6em;
+  margin: 0.4em;
+  border: 1px solid white;
+  border-radius: 5%;
+}
+
+.inputLine {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inputLine > label {
+  padding: 0.1em;
+  margin-right: 0.2em;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
