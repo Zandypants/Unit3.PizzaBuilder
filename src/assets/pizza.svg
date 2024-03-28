@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="pizza.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.35898056"
+     inkscape:cx="293.88778"
+     inkscape:cy="622.59639"
+     inkscape:window-width="1385"
+     inkscape:window-height="681"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path846"
+       style="fill:#7c6609;fill-rule:evenodd;stroke-width:6.00001;paint-order:markers fill stroke;stop-color:#000000"
+       d="M 128.95823,66.135712 A 84.857139,84.857139 0 0 0 38.613132,90.022806 84.857139,84.857139 0 0 0 45.441917,209.83404 84.857139,84.857139 0 0 0 165.25354,203.0056 84.857139,84.857139 0 0 0 179.47935,112.07263 l -34.12736,15.48861 -42.43163,19.25667 14.31074,-44.34484 z"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path846-8"
+       style="fill:#aa0000;fill-rule:evenodd;stroke-width:6.00001;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 168.63812,116.99287 -23.28613,10.56837 -42.43163,19.25667 14.31074,-44.34484 7.01016,-21.721284 c -3.565,-1.919436 -7.49533,-3.373317 -10.32744,-6.228868 -1.49102,-1.503357 -1.14974,-5.019468 -3.21711,-5.476839 -3.59309,-0.794904 -5.57622,5.162914 -9.08494,6.272436 -5.157476,1.630888 -10.825755,0.42608 -16.227056,0.133952 -3.95266,-0.213775 -8.027657,-2.592393 -11.795341,-1.37841 -0.717912,0.231316 -1.091372,1.043332 -1.671314,1.525588 -4.749193,3.949259 -9.651794,7.732944 -14.777674,11.179227 -4.512037,3.033577 -10.064212,4.604717 -14.021992,8.33259 -2.705805,2.548628 -4.719904,5.845428 -6.259653,9.228628 -3.404196,7.47986 -3.75374,16.02178 -6.295185,23.83701 -1.893576,5.82295 -4.098168,11.55763 -6.653015,17.12226 -0.29962,0.6526 -1.01833,1.18219 -1.01458,1.90028 0.03537,6.77278 7.523235,11.42965 9.752758,17.82504 1.992146,5.71447 2.993115,11.84185 3.075663,17.89305 0.0289,2.11808 -1.793566,4.36682 -0.904944,6.28969 4.075609,8.81918 17.611958,8.84835 24.661831,15.53325 4.32524,4.10131 4.840558,12.25767 10.32017,14.60337 8.039115,3.44137 17.217999,-4.25914 25.95237,-3.83367 4.600952,0.22413 9.409182,1.05586 13.410222,3.33854 2.45655,1.40151 3.15069,5.67185 5.95422,6.04478 6.85645,0.91205 11.70577,-7.42496 17.92003,-10.46236 6.56444,-3.20856 15.57532,-2.6162 20.34934,-8.14752 2.4978,-2.89407 0.96285,-7.73029 2.66075,-11.15546 1.39959,-2.82338 3.86784,-4.98452 5.99073,-7.31339 3.66792,-4.02388 8.37892,-7.1031 11.62611,-11.47357 0.95104,-1.28003 1.91906,-2.66707 2.23452,-4.23023 1.4469,-7.16984 -2.46745,-14.5645 -1.92223,-21.85853 0.39842,-5.32985 2.42601,-10.41186 3.7635,-15.58653 0.22493,-0.87024 0.8527,-1.71073 0.71635,-2.59917 -0.90942,-5.9259 -7.22526,-9.66739 -9.81923,-15.07406 z"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path846-8-2"
+       style="fill:#ffdd55;fill-rule:evenodd;stroke-width:6.29251;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 125.92751,75.526178 c -4.29173,-0.542323 -9.07547,0.592923 -13.41248,-0.05172 -4.63126,-0.688384 -9.06067,-2.548439 -13.717109,-3.033366 -3.161927,-0.329285 -6.473748,-0.752646 -9.533918,0.09688 -6.972456,1.935591 -12.483281,7.307278 -18.70111,11.000977 -4.3198,2.566176 -8.486813,5.400008 -12.926221,7.754074 -3.765407,1.996664 -9.061384,1.963056 -11.597506,5.386815 -2.270103,3.064627 -0.627039,7.647382 -1.590313,11.339672 -1.256683,4.81696 -2.924674,9.6064 -5.415038,13.91435 -2.781013,4.81073 -6.580129,8.99821 -10.444967,12.98992 -0.335854,0.34688 -0.971898,0.47748 -1.098752,0.94359 -0.887675,3.26159 2.206481,6.40147 3.276089,9.61331 1.871489,5.61977 5.171855,10.98767 5.496035,16.89793 0.265102,4.83314 -4.079223,9.49595 -2.957141,14.20686 0.3903,1.63863 1.82835,2.90998 3.148846,3.95817 3.003863,2.38442 7.147528,2.8873 10.392546,4.93098 4.252761,2.67833 8.615181,5.53737 11.71473,9.49358 3.236918,4.13156 5.833873,9.07367 6.694332,14.24603 0.203668,1.22429 -1.184284,2.72822 -0.408119,3.69827 1.23197,1.53972 3.923154,0.3828 5.873903,0.66073 5.033894,0.71719 10.20096,1.0057 15.032823,2.59567 3.938815,1.2961 7.222315,4.16868 11.122899,5.57634 1.127271,0.40682 2.338246,1.09251 3.501721,0.8124 1.28917,-0.31038 1.93077,-1.83414 3.03618,-2.56486 3.01951,-1.996 6.19898,-3.95619 9.69894,-4.88808 7.002,-1.86435 14.62719,0.32369 21.71837,-1.17053 2.08078,-0.43845 4.29972,-0.93556 5.96424,-2.25595 2.18536,-1.73357 2.98608,-4.71984 4.66279,-6.94893 3.14123,-4.17608 6.15779,-8.55465 10.08475,-12.00243 3.72438,-3.26993 9.97196,-3.76603 12.52753,-8.0128 1.63086,-2.71011 0.16763,-6.36023 0.77847,-9.46559 0.841,-4.27544 1.93772,-8.59333 3.94208,-12.45972 1.24027,-2.39248 5.05694,-3.7412 4.89343,-6.43431 -0.13535,-2.22919 -3.43783,-2.95205 -4.66673,-4.81995 -2.69988,-4.10365 -4.0448,-8.96423 -5.66272,-13.59991 -2.05325,-5.88309 -3.8475,-11.85636 -5.47378,-17.87532 l -5.94525,2.6981 c -4.06023,-6.62771 -12.50312,-7.86925 -15.34157,-3.46173 -1.75642,2.72735 11.65529,3.92782 5.87746,7.75668 l -1.12096,0.50894 c -8.40572,1.61619 -17.08187,1.75711 -24.10104,10.93763 -1.61309,-2.00318 4.00841,-14.93916 -1.13028,-15.45109 -11.36855,12.19783 5.59181,13.66247 -15.7535,22.14843 3.94218,-8.66197 7.51532,-5.65794 9.5213,-32.36439 5.82928,-0.40293 14.19514,-5.19278 12.04725,-9.43992 -1.31875,-2.60766 -7.86793,6.52697 -8.90621,-0.29466 l 0.20159,-0.62417 c 2.62478,-4.62038 9.22364,-8.972415 4.54589,-14.085877 9.13009,-4.219924 8.0937,6.712348 10.26282,3.781985 2.64262,-3.570055 -3.54658,-10.849989 -8.05828,-10.612399 z"
+       sodipodi:nodetypes="csssssssssssssssssssssssssssssssscsccaccccccscccacc"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g3045"
+       transform="rotate(41.737887,190.61624,153.29943)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         id="path846-81"
+         style="fill:#7c6609;fill-rule:evenodd;stroke-width:22.6772;paint-order:markers fill stroke;stop-color:#000000"
+         d="m 453.0918,258.89453 a 320.7199,320.7199 0 0 0 -126.02539,26.0332 l 58.35742,131.98829 71.21679,161.07226 71.21485,-161.07226 57.2793,-129.55079 A 320.7199,320.7199 0 0 0 453.0918,258.89453 Z"
+         transform="scale(0.26458333)" />
+      <path
+         id="path846-8-5"
+         style="fill:#aa0000;fill-rule:evenodd;stroke-width:22.6772;paint-order:markers fill stroke;stop-color:#000000"
+         d="m 514.45703,292.45898 c -11.18578,-0.0208 -17.28045,14.762 -27.5918,19.09766 -40.94486,17.21628 -87.21927,16.8695 -130.83789,25.25391 -1.83265,0.35227 -3.66096,0.77035 -5.48828,1.20703 l 34.88477,78.89844 71.21679,161.07226 71.21485,-161.07226 39.08398,-88.39649 c -0.64964,-0.27084 -1.31225,-0.51148 -1.94922,-0.81055 -18.58987,-8.72826 -29.9963,-35.21215 -50.5332,-35.25 z"
+         transform="scale(0.26458333)" />
+      <path
+         id="path846-8-2-3"
+         style="fill:#ffdd55;fill-rule:evenodd;stroke-width:23.7827;paint-order:markers fill stroke;stop-color:#000000"
+         d="m 488.3418,186.74414 c -0.65768,0.0295 -0.90447,0.97218 -1.45118,1.33789 -9.30037,6.22153 -19.49348,11.88529 -30.46484,14.125 -22.66998,4.62788 -46.41467,0.60562 -69.38672,-2.16992 -9.34126,-1.12864 -18.4292,-7.92278 -27.60937,-5.86328 -5.63336,1.2638 -10.66065,3.78085 -15.34961,7.00781 13.06535,34.18034 14.33908,81.83682 43.27539,97.87891 1.96749,15.64574 9.31372,26.49281 16.55273,37.43554 -5.37196,22.6287 -14.02159,44.89299 1.99024,44.01368 5.52321,-0.30331 10.49787,-2.58361 14.69336,-6.27735 12.47592,28.70716 1.60092,66.75468 37.98047,85.90039 5.83873,2.85373 15.49607,-34.68601 19.44093,-42.08432 -4.65853,17.93939 -15.55737,53.6325 -2.37453,52.90854 25.35208,-1.39222 39.15261,-44.39684 19.01953,-74.88672 10.34067,-20.82332 20.39709,-46.47668 29.71094,-84.75586 10.14891,21.57844 17.11198,45.99392 29.50391,35.14258 16.23423,-14.21591 7.36598,-46.95159 -16.93164,-63.57617 l 20.58984,-46.57031 c -13.3253,-8.7007 -26.49139,-17.64628 -39.52148,-26.75977 -10.2229,-7.15012 -17.19425,-23.36603 -29.66797,-22.80664 z"
+         transform="matrix(0.26458333,0,0,0.26458333,-0.51118761,31.182444)"
+         sodipodi:nodetypes="scssscccscccsccsccss" />
+    </g>
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390"
+       cx="156.67123"
+       cy="37.81625"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390-9"
+       cx="139.94792"
+       cy="1.8304626"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390-9-0"
+       cx="137.95261"
+       cy="67.78373"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390-9-2"
+       cx="127.13184"
+       cy="38.052654"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390-9-3"
+       cx="175.09566"
+       cy="86.131432"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390-9-9"
+       cx="160.96239"
+       cy="-70.379059"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390-9-97"
+       cx="174.74913"
+       cy="-46.020641"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390-9-97-4"
+       cx="183.27509"
+       cy="-63.124912"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390-9-97-5"
+       cx="215.6593"
+       cy="7.795207"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390-9-97-0"
+       cx="181.06221"
+       cy="57.935268"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390-9-97-3"
+       cx="205.479"
+       cy="79.851372"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390-9-97-9"
+       cx="196.53209"
+       cy="23.734005"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#550000;fill-rule:evenodd;stroke-width:5.32943;paint-order:markers fill stroke;stop-color:#000000"
+       id="path2390-9-97-8"
+       cx="217.82159"
+       cy="39.830517"
+       r="7.7189403"
+       transform="rotate(41.737887)"
+       inkscape:export-filename="/Users/ksergi/Desktop/pizza.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
