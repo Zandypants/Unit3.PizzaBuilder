@@ -24,6 +24,17 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  margin-top: 0.2em;
+  margin-bottom: 0em;
+  padding: 0.2em;
+}
+
+form {
+  text-align: center;
 }
 
 .container {
@@ -37,6 +48,19 @@ h1 {
   border: 1px solid white;
   border-radius: 5%;
 }
+.containerPizza {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-width: 180px;
+  max-width: 360px;
+  padding: 0.6em 1.2em;
+}
+.containerPizza > button {
+  width: fit-content;
+  align-self: center;
+  margin-top: 1em;
+}
 
 .inputLine {
   display: flex;
@@ -46,6 +70,10 @@ h1 {
 .inputLine > label {
   padding: 0.1em;
   margin-right: 0.2em;
+}
+
+input[type="submit"] {
+  margin-top: 1em;
 }
 
 @media (prefers-color-scheme: light) {
