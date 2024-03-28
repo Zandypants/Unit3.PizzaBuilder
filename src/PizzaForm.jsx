@@ -12,7 +12,11 @@ function PizzaForm ({addPizza}) {
 
   const onSubmit = (event) => {
     event.preventDefault();
+    
     addPizza(newPizza);
+
+    const inputs = event.target.querySelectorAll("input");
+    inputs.forEach(input => input.value = "");
   }
 
   return <form className="containerItem" onSubmit={onSubmit}>
